@@ -5,8 +5,8 @@ This project provides a python implementation for all the figures and examples i
 In the implementation process, some parameters are not mentioned in the book. For the consistency of the figure, these parameters refer to the code from [ShangtongZhang](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction/).
 
 <div align=center>
-	<img width="400" src="chap6/exp_6.6_origin.png">
-	<img width="400" src="chap6/exp_6.6_cliff_walking.png">
+	<img width="300" src="chap6/exp_6.6_origin.png">
+	<img width="300" src="chap6/exp_6.6_cliff_walking.png">
 </div>
 
 All codes are well organized and easy to understand, and can be easily read with formulas and algorithms:
