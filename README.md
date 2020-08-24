@@ -7,6 +7,7 @@ In the implementation process, some parameters are not mentioned in the book. Fo
 <div align=center>
 	<img width="300" src="chap6/exp_6.6_origin.png">
 	<img width="300" src="chap6/exp_6.6_cliff_walking.png">
+    <p><b>Figure:</b> the original (left) and implementation (right)</p>
 </div>
 
 All codes are well organized and easy to understand, and can be easily read with formulas and algorithms:
